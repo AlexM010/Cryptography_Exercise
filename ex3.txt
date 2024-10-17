@@ -1,0 +1,59 @@
+﻿Next mapping: V
+V -> V
+Partially decrypted text:
+
+THIS IS A TEXT THAT HAS BEEN ENCRYPTED
+USING THE A**INE A*G*RITH* AND GIVEN AS AN ASSIG*ENT IN THE C**PUTER
+SCIENCE DEPART*ENT ** THE UNIVERSITY ** CRETE.
+Enter partially decrypted word:C**PUTER
+Suggestion:     computer
+
+Press any key to continue or Ctrl-D to stop
+
+Next mapping: U
+U -> M
+Partially decrypted text:
+
+THIS IS A TEXT THAT HAS BEEN ENCRYPTED
+USING THE A**INE A*G*RITHM AND GIVEN AS AN ASSIGMENT IN THE C*MPUTER
+SCIENCE DEPARTMENT ** THE UNIVERSITY ** CRETE.
+Enter partially decrypted word:A*G*RITHM
+Suggestion:     algorithm
+
+Press any key to continue or Ctrl-D to stop
+
+Next mapping: A
+A -> O
+Partially decrypted text:
+
+THIS IS A TEXT THAT HAS BEEN ENCRYPTED
+USING THE A**INE A*GORITHM AND GIVEN AS AN ASSIGMENT IN THE COMPUTER
+SCIENCE DEPARTMENT O* THE UNIVERSITY O* CRETE.
+Enter partially decrypted word:A**INE
+Suggestion:     abrine  acoine  actine  aedine  affine  Alaine  Alcine  Aldine  algine  A-line  alkine  Alpine  Alsine  alvine  amaine  ammine  Andine  anoine  Ardine  argine  Arline  armine  arsine  ashine  Aubine  aurine  Azbine
+
+Press any key to continue or Ctrl-D to stop
+
+Next mapping: Z
+Z -> F
+Partially decrypted text:
+
+THIS IS A TEXT THAT HAS BEEN ENCRYPTED
+USING THE AFFINE A*GORITHM AND GIVEN AS AN ASSIGMENT IN THE COMPUTER
+SCIENCE DEPARTMENT OF THE UNIVERSITY OF CRETE.
+Enter partially decrypted word:A*GORITHM
+Suggestion:     algorithm
+
+Press any key to continue or Ctrl-D to stop
+
+Next mapping: R
+R -> L
+Partially decrypted text:
+
+THIS IS A TEXT THAT HAS BEEN ENCRYPTED
+USING THE AFFINE ALGORITHM AND GIVEN AS AN ASSIGMENT IN THE COMPUTER
+SCIENCE DEPARTMENT OF THE UNIVERSITY OF CRETE.
+Enter partially decrypted word:done
+Suggestion:     done
+
+Press any key to continue or Ctrl-D to stop
